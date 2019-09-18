@@ -1,0 +1,14 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=E:\SDK\gradle\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\cc30b170251bb492b8af7c81d8d3dc00\jars\classes.jar
+FILE.hash=8b43c58695b70cd0bec946b36580d58f23a06464049fcd59f70f459526ff579e
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=21
+IS_DEBUGGABLE=true
+EXTRA_DEPENDENCIES[0].path=E:\SDK\android\platforms\android-28\android.jar
+EXTRA_DEPENDENCIES[0].hash=d20853d289a5161d9cf1c1268d7923076487d4fa68c970b0733e2d5a0ccfc3c5
+EXTRA_DEPENDENCIES[1].path=E:\SDK\gradle\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\53262745d60de11837ae145303fbc763\jars\classes.jar
+EXTRA_DEPENDENCIES[1].hash=ad8e7bd576959669a63e305de69929abc1eb6de4d919cfdbd3163bbdcdf4b22e

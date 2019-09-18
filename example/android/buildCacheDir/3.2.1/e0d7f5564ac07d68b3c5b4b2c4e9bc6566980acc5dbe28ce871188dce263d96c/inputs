@@ -1,0 +1,14 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=E:\SDK\gradle\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.2.71\4ce93f539e2133f172f1167291a911f83400a5d0\kotlin-stdlib-jdk7-1.2.71.jar
+FILE.hash=b136bd61b240e07d4d92ce00d3bd1dbf584400a7bf5f220c2f3cd22446858082
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=16
+IS_DEBUGGABLE=true
+EXTRA_DEPENDENCIES[0].path=E:\SDK\android\platforms\android-28\android.jar
+EXTRA_DEPENDENCIES[0].hash=d20853d289a5161d9cf1c1268d7923076487d4fa68c970b0733e2d5a0ccfc3c5
+EXTRA_DEPENDENCIES[1].path=E:\SDK\gradle\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.71\d9717625bb3c731561251f8dd2c67a1011d6764c\kotlin-stdlib-1.2.71.jar
+EXTRA_DEPENDENCIES[1].hash=4c895c270b87f5fec2a2796e1d89c15407ee821de961527c28588bb46afbc68b
